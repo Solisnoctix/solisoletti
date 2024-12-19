@@ -11,5 +11,5 @@ theme:
 
 
 nav:
-- Home: index.md
-- About: about.md
+- Biografia: index.md
+- Documentazione: about.md
